@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Scholtz.
 
-<!--
-**scholtzdaniel10/scholtzdaniel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer. passionate about building useful, efficient, and scalable software. I love solving real-world problems through code, and I'm currently looking for new opportunities where I can grow and contribute to impactful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- **Languages:** [List e.g., JavaScript, Python, C++, etc.]
+- **Frameworks/Libraries:** [List e.g., React, Node.js, Flask, etc.]
+- **Tools:** Git, Docker, Postman, VS Code, etc.
+- **Other:** REST APIs, Agile, Unit Testing, CI/CD
+
+---
+
+## 📫 Contact Me
+
+- Email: scholtzdaniel10@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/daniel-scholtz-b2482135b/ 
+
+
+---

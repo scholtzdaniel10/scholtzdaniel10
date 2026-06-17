@@ -17,7 +17,6 @@ I'm a Software Engineer who enjoys building useful, efficient, and scalable soft
 ## 🔬 What I'm Working On
 
 - Research on **AI-based diabetic retinopathy screening** for under-resourced settings — applying deep learning to medical imaging
-- Building and maintaining **property-management software**
 
 ---
 

@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="516" viewBox="0 0 920 516" role="img" aria-labelledby="t d">
+<title id="t">daniel@github: fastfetch-style profile</title>
+<desc id="d">Daniel Scholtz. Role: Full-stack engineer; Location: South Africa; Research: AI diabetic retinopathy screening; Languages: TypeScript · Python · PHP · Rust · SQL · C++; Backend: Laravel · Node/Express · Postgres · Supabase; Frontend: React · Next.js · Ionic · Tailwind · Three.js; AI / ML: PyTorch · TensorFlow · CNNs · ViTs · Grad-CAM; Agents: Claude Code · Cursor · MCP servers; Testing: Pest · Playwright · PHPStan; OS: Windows · CachyOS (KDE); Editor: Cursor · VS Code; Contact: scholtzdaniel10@gmail.com</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#58a6ff"/>
+    <stop offset="1" stop-color="#bc8cff"/>
+  </linearGradient>
+</defs>
+<rect width="920" height="516" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12 a12 12 0 0 1 12 -12 H908 a12 12 0 0 1 12 12 V36 H0 Z" fill="#161b22"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="460" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="13" fill="#6e7681">daniel@github: ~</text>
+<g font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15" xml:space="preserve">
+<text x="28" y="72"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9"> fastfetch</tspan></text>
+
+<rect x="57" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="93" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="111" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="129" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="151" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="151" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="151" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="165" y="151" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="169" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="169" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="169" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="165" y="169" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="165" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="205" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="205" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="205" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="165" y="205" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="223" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="223" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="223" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="165" y="223" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="241" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="241" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="241" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="165" y="241" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="57" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="75" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="93" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="111" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="129" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="147" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="225" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="243" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="261" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="279" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="297" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="315" y="133" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="207" y="151" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="225" y="151" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="207" y="169" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="225" y="169" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="225" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="243" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="261" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="279" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="297" y="187" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="297" y="205" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="315" y="205" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="297" y="223" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="315" y="223" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="297" y="241" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="315" y="241" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="207" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="225" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="243" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="261" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="279" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="297" y="259" width="16" height="16" rx="2" fill="#1f2937"/>
+<rect x="52" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="88" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="106" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="124" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="146" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="146" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="146" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="160" y="146" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="164" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="164" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="164" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="160" y="164" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="160" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="200" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="200" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="200" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="160" y="200" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="218" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="218" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="218" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="160" y="218" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="236" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="236" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="236" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="160" y="236" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="52" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="70" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="88" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="106" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="124" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="142" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="220" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="238" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="256" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="274" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="292" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="310" y="128" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="202" y="146" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="220" y="146" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="202" y="164" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="220" y="164" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="220" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="238" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="256" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="274" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="292" y="182" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="292" y="200" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="310" y="200" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="292" y="218" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="310" y="218" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="292" y="236" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="310" y="236" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="202" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="220" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="238" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="256" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="274" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<rect x="292" y="254" width="16" height="16" rx="2" fill="url(#g)"/>
+<text x="52" y="312" fill="#6e7681">  Daniel Scholtz</text>
+<text x="372" y="108"><tspan fill="#58a6ff" font-weight="bold">daniel</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#58a6ff" font-weight="bold">github</tspan></text>
+<text x="372" y="132" fill="#6e7681">-------------</text>
+<text x="372" y="156"><tspan fill="#58a6ff" font-weight="bold">Role</tspan><tspan fill="#c9d1d9">: Full-stack engineer</tspan></text>
+<text x="372" y="180"><tspan fill="#58a6ff" font-weight="bold">Location</tspan><tspan fill="#c9d1d9">: South Africa</tspan></text>
+<text x="372" y="204"><tspan fill="#58a6ff" font-weight="bold">Research</tspan><tspan fill="#c9d1d9">: AI diabetic retinopathy screening</tspan></text>
+<text x="372" y="228"><tspan fill="#58a6ff" font-weight="bold">Languages</tspan><tspan fill="#c9d1d9">: TypeScript · Python · PHP · Rust · SQL · C++</tspan></text>
+<text x="372" y="252"><tspan fill="#58a6ff" font-weight="bold">Backend</tspan><tspan fill="#c9d1d9">: Laravel · Node/Express · Postgres · Supabase</tspan></text>
+<text x="372" y="276"><tspan fill="#58a6ff" font-weight="bold">Frontend</tspan><tspan fill="#c9d1d9">: React · Next.js · Ionic · Tailwind · Three.js</tspan></text>
+<text x="372" y="300"><tspan fill="#58a6ff" font-weight="bold">AI / ML</tspan><tspan fill="#c9d1d9">: PyTorch · TensorFlow · CNNs · ViTs · Grad-CAM</tspan></text>
+<text x="372" y="324"><tspan fill="#58a6ff" font-weight="bold">Agents</tspan><tspan fill="#c9d1d9">: Claude Code · Cursor · MCP servers</tspan></text>
+<text x="372" y="348"><tspan fill="#58a6ff" font-weight="bold">Testing</tspan><tspan fill="#c9d1d9">: Pest · Playwright · PHPStan</tspan></text>
+<text x="372" y="372"><tspan fill="#58a6ff" font-weight="bold">OS</tspan><tspan fill="#c9d1d9">: Windows · CachyOS (KDE)</tspan></text>
+<text x="372" y="396"><tspan fill="#58a6ff" font-weight="bold">Editor</tspan><tspan fill="#c9d1d9">: Cursor · VS Code</tspan></text>
+<text x="372" y="420"><tspan fill="#58a6ff" font-weight="bold">Contact</tspan><tspan fill="#c9d1d9">: scholtzdaniel10@gmail.com</tspan></text>
+<rect x="372" y="450" width="26" height="18" fill="#484f58"/>
+<rect x="402" y="450" width="26" height="18" fill="#ff7b72"/>
+<rect x="432" y="450" width="26" height="18" fill="#3fb950"/>
+<rect x="462" y="450" width="26" height="18" fill="#d29922"/>
+<rect x="492" y="450" width="26" height="18" fill="#58a6ff"/>
+<rect x="522" y="450" width="26" height="18" fill="#bc8cff"/>
+<rect x="552" y="450" width="26" height="18" fill="#39c5cf"/>
+<rect x="582" y="450" width="26" height="18" fill="#b1bac4"/>
+<text x="28" y="498"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">▍</tspan></text>
+</g>
+</svg>
